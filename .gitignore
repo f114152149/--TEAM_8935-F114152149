@@ -1,0 +1,13 @@
+outputs/
+datasets/
+vis_out/
+predict_txt/
+runs/
+training_image/
+training_label/
+testing_image/
+*.pt
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
